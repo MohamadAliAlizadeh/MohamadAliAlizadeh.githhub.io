@@ -1,0 +1,22 @@
+body {
+margin: 0;
+}
+
+.header {
+    text-align: center;
+    background-color: rgb(16, 239, 255);
+}
+
+.navigation {
+    
+}
+.nav-list {
+margin: 0;
+padding: 0;
+}
+.nav-item {
+list-style-type: none;
+}
+.nav-link {
+
+} 
