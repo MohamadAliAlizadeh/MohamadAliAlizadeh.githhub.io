@@ -1,22 +1,24 @@
 body {
-margin: 0;
+margin: 3;
 }
 
 .header {
     text-align: center;
-    background-color: rgb(16, 239, 255);
+    background-color: rgb(16, 239, 195);
 }
 
 .navigation {
     
 }
 .nav-list {
-margin: 0;
+margin: 3;
 padding: 0;
 }
+
 .nav-item {
-list-style-type: none;
+list-style-type: selection;
 }
+
 .nav-link {
 
 } 
